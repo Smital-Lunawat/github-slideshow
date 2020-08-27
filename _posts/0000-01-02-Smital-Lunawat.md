@@ -1,5 +1,7 @@
 layout:slide
 title:"Welcome to our second slide!"
 
-YOur text
+Your text
+This is my **first** git project
+_looking forward for many more_
 Use the left arrow to go back!
